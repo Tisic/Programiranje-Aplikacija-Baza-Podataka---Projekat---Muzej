@@ -1,0 +1,23 @@
+body{
+    background-color: #575050;
+}
+.container{
+    margin-top: 50px;
+    
+}
+.col-8{
+    display: inline;
+    justify-content: center;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+    
+}
+.btn{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
